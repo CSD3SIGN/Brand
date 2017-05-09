@@ -1,3 +1,3 @@
 # Brand
 
--[Brand Guidelines](https://ixdcraig.github.io/Brand/guidelines.pdf)
+-[Brand Guidelines](https://github.com/ixdCraig/Brand/blob/master/Guidelines.pdf)
